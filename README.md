@@ -5,4 +5,4 @@ I am a freshman at Hunter College
 fergus
         big indent
     smaller indent
-  smaller indnt
+  smaller indent
